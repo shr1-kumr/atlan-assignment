@@ -1,0 +1,6 @@
+--constraints "https://raw.githubusercontent.com/apache/airflow/constraints-2.7.3/constraints-3.11.txt"
+apache-airflow
+pandas
+openlineage-airflow
+apache-airflow-providers-snowflake
+apache-airflow-providers-openlineage
